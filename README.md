@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently an IB student trying to get into a good university.
+
 <!--
 **JerryWeii-27/JerryWeii-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
